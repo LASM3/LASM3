@@ -1,4 +1,12 @@
 ## Hi there 👋
+I'm lasm, a beginner developer. I mainly use Python, C, and PHP to create cool stuff.  
+I’m learning other cool stuff on computers, and currently spend most of my time working on some private projects.
+
+<img src="https://img.shields.io/badge/c-%2300599E.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/espressif-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+
+If you found my stuff useful or wish to support my work:
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=flat-square&logo=paypal)](https://paypal.me/lasm3)
+[![Liberapay](https://img.shields.io/badge/Donate-Liberapay-F6C915?style=flat-square&logo=liberapay)](https://liberapay.com/lasm3/)
 
 <!--
 **LASM3/LASM3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
